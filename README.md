@@ -1,12 +1,20 @@
-# Voice Controlled Desktop Assistant
+# Voice Controlled Desktop Assistant 🎙️
 
-This project is a Python-based voice assistant that can:
-- Open apps
-- Search the web
-- Tell time
-- Play music
+A Python-based desktop voice assistant that can:
 
-## Installation
+✅ Open applications  
+✅ Search the web  
+✅ Tell time  
+✅ Play music  
+
+## 🛠 Technologies Used
+- Python
+- SpeechRecognition
+- pyttsx3
+- webbrowser
+
+## ▶️ How to Run
+
 ```bash
 pip install -r requirements.txt
 python main.py
